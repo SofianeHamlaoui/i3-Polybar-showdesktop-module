@@ -1,6 +1,7 @@
 # ShowDesktop Polybar Module
 
 A module that allows you to use Show Desktop icon (kind of) on i3 (polybar)
+
 ![Show Desktop](http://up.sofianehamlaoui.me/show-desk.jpg)
 
 ## Dependencies
@@ -9,7 +10,8 @@ A module that allows you to use Show Desktop icon (kind of) on i3 (polybar)
 - [Happiness](https://github.com/SofianeHamlaoui)
 
 ## How does it work
-This module works when you click on the Polybar icons,
+
+This module works when you click on the Polybar icons, means : 
 
 ### Left Click :
 that moves the selected windows to scratchpad ```move scratchpad ``` using ``` i3-msg ```
