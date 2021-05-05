@@ -2,7 +2,7 @@
 
 A module that allows you to use Show Desktop icon (kind of) on i3 (polybar)
 
-![Show Desktop](http://up.sofianehamlaoui.me/show-desk.jpg)
+![Show Desktop](http://up.sofianehamlaoui.fr/show-desk.jpg)
 
 ## Dependencies
 - [Polybar](https://github.com/polybar/polybar)
@@ -22,15 +22,15 @@ that shows the hidden windows (sent to scratchpad) ```[class=.*] scratchpad show
 I added ```[class=.*]``` so it shows all the windows sent to scratchpad and not one by one
 ## Demo on Youtube on how it works
 
-[![The Youtube Video](http://up.sofianehamlaoui.me/desk-thumb.jpg)](https://www.youtube.com/watch?v=l3qms955nWo)
+[![The Youtube Video](http://up.sofianehamlaoui.fr/desk-thumb.jpg)](https://www.youtube.com/watch?v=l3qms955nWo)
 
 ## Screenshots :
 
-![Polybar Icon](http://up.sofianehamlaoui.me/Screenshot-showdesktop-module.png)
+![Polybar Icon](http://up.sofianehamlaoui.fr/Screenshot-showdesktop-module.png)
 
-![Desktop with windows](http://up.sofianehamlaoui.me/Screenshot-Showdesk-2.png)
+![Desktop with windows](http://up.sofianehamlaoui.fr/Screenshot-Showdesk-2.png)
 
-![Desktop with hidden windows](http://up.sofianehamlaoui.me/Screenshot-showdesk-3.png)
+![Desktop with hidden windows](http://up.sofianehamlaoui.fr/Screenshot-showdesk-3.png)
 
 ## Settings :
 
